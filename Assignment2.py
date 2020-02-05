@@ -3,7 +3,6 @@ IS590 PR - Assignment 2
 
 Instructor: Mr. Weible
 Author: Alan Chen
-NetID: ycchen4
 """
 
 """
