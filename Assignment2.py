@@ -242,7 +242,7 @@ def output_yearly_result(result_dict):
     """
     Output the result of the storm statistics to a .txt file for the last question with the help of PrettyTable library
     :param result_dict:
-    :return:
+    :return: None
     """
     result_table = PrettyTable()
     result_table.field_names = ["Year", "Storms", "Cat.1", "Cat.2", "Cat.3", "Cat.4", "Cat.5"]
